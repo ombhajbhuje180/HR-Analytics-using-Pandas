@@ -26,3 +26,7 @@ The project helps HR teams understand workforce structure and salary trends.
 1. Install Python
 2. Run `pip install pandas matplotlib numpy`
 3. Execute `python HR_Analytics.py`
+
+## Visualization Output
+
+![Average Salary by Department](Avarage_Salary_By_Department.png)
