@@ -21,3 +21,8 @@ This project analyzes employee data to extract insights related to:
 
 ## Outcome
 The project helps HR teams understand workforce structure and salary trends.
+
+## How to Run
+1. Install Python
+2. Run `pip install pandas matplotlib numpy`
+3. Execute `python HR_Analytics.py`
